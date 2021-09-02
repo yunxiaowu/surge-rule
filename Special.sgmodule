@@ -1,3 +1,6 @@
+#!name=特别去广告
+#!desc=奈菲影视、手机片库网等
+
 [Rule]
 #####Jable.tv av吃到饱
 DOMAIN-SUFFIX, asewlfjqwlflkew.com, reject
