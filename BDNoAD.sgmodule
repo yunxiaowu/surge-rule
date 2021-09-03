@@ -1,5 +1,5 @@
-#!name=百度手机网页去广告
-#!desc=去掉跳转+页面广告
+#!name=百度手机网页去跳转
+#!desc=去掉跳转
 
 [Rule]
 # MyReject
