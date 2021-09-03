@@ -1,0 +1,6 @@
+#!name=百度手机网页去广告
+#!desc=去掉跳转+页面广告
+
+[Rule]
+# MyReject
+RULE-SET,https://raw.githubusercontent.com/yunxiaowu/surge-rule/main/MyReject.list,REJECT
